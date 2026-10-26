@@ -14,6 +14,8 @@ For "L0GSNMTF", just run '[main_Run_me.m](L0GSNMTF/main_Run_me.m)'.
 ## Data
 This code has built-in the data mentioned in our paper[<sup>1</sup>](#refer-id).
 
+In each problem folder, "Data" contains the input datasets, and "Data_run" contains the saved experimental results, including objective function values, running times, residuals and factorization results.
+
 ## Reference
 <div id="refer-id"></div>
 [1] Controlled Block Proximal Linearized Method for Nonconvex and Nonsmooth Optimization. Weifeng Yang. 
