@@ -16,5 +16,5 @@ This code has built-in the data mentioned in our paper[<sup>1</sup>](#refer-id).
 
 ## Reference
 <div id="refer-id"></div>
-[1] Controlled Block Proximal Linearized Method for Nonconvex and Nonsmooth Optimization.
+[1] Controlled Block Proximal Linearized Method for Nonconvex and Nonsmooth Optimization. Weifeng Yang. 
 
